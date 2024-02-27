@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /
-cd /volumes/Macintosh\ HD/private/var/db/configurationprofiles
+cd /private/var/db/configurationprofiles
 rm -rf *  
 mkdir settings
 touch settings/ .profilesareinstalled 
