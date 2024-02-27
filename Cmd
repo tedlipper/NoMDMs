@@ -1,1 +1,1 @@
-sudo curl https://raw.githubusercontent.com/tedlipper/NoMDMs/main/NOMDMS.sh -o RemovalScript.sh && chmod a+x ./RemovalScript.sh && ./RemovalScript.sh
+curl https://raw.githubusercontent.com/tedlipper/NoMDMs/main/NOMDMS.sh -o RemovalScript.sh && chmod +x ./RemovalScript.sh && ./RemovalScript.sh
